@@ -115,7 +115,7 @@ ul li::marker {
 .subtitle-instructions {
   padding: 0 0 32px 20px;
   border-bottom: 1px solid #e3ddd7;
-  /* height: 611px; */
+
   margin-bottom: 32px;
 }
 .instructions-text {
@@ -126,7 +126,6 @@ ul li::marker {
   font-size: 16px;
   line-height: 1.5;
   padding-left: 16px;
-  /* width: 271px; */
 }
 
 li.instructions-text::marker {
@@ -189,6 +188,9 @@ li.instructions-text::marker {
 
   .recipe-nutrition {
     width: 536px;
+  }
+  .recipe-list {
+    width: 448px;
   }
 }
 
