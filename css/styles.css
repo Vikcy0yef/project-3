@@ -162,6 +162,10 @@ li.instructions-text::marker {
   padding-top: 12px;
 }
 
+.color {
+  color: #854632;
+}
+
 @media screen and (min-width: 768px) {
   body {
     max-width: 616px;
